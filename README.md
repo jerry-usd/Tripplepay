@@ -1,6 +1,13 @@
 ## Live link
 https://deniji.xyz/projects/tripple
 
+## Test details
+ ##### User:
+    jerryadenij@gmail.com
+    test12
+##### Admin: 
+      admin@gmail.com
+      test12 
 
 ## Installation 
 1. Clone Repo
